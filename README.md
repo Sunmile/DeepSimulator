@@ -20,6 +20,7 @@ URL = {http://dx.doi.org/10.1093/bioinformatics/bty223},
 ## Prerequisites
 1. Anaconda 2 or Minoconda 2 (https://conda.io/miniconda.html)
 2. Downloaded Albacore (Suppose you downloaded: ont_albacore-2.1.3-cp36-cp36m-manylinux1_x86_64.whl: https://mirror.oxfordnanoportal.com/software/analysis/ont_albacore-2.1.3-cp36-cp36m-manylinux1_x86_64.whl)
+wget https://apac.oxfordnanoportal.com/software/analysis/ont_albacore-2.3.1-cp36-cp36m-manylinux1_x86_64.whl
 
 ## Build a virtual environment for Albacore basecalling
 ```
